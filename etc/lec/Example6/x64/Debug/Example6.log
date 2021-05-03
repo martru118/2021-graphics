@@ -1,0 +1,54 @@
+﻿  main.cpp
+C:\CSCI 3090\etc\lab\Example6\main.cpp(91,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(128,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(136,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(162,33): warning C4474: 'sprintf' : too many arguments passed for format string
+C:\CSCI 3090\etc\lab\Example6\main.cpp(162,33): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\CSCI 3090\etc\lab\Example6\main.cpp(163,33): warning C4474: 'sprintf' : too many arguments passed for format string
+C:\CSCI 3090\etc\lab\Example6\main.cpp(163,33): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\CSCI 3090\etc\lab\Example6\main.cpp(162,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6\main.cpp(163,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6\main.cpp(236,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(237,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(245,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(246,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(249,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(253,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(254,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(256,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(259,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(261,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\main.cpp(263,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Shaders.cpp
+C:\CSCI 3090\etc\lab\Example6\Shaders.cpp(33,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\Shaders.cpp(22,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tiny_obj_loader.cc
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(84,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(85,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(199,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(463,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(336,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(609,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(611,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(625,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(645,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(705,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(326): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\CSCI 3090\etc\lab\Example6\tiny_obj_loader.cc(326): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+  Generating Code...
+  Example6.vcxproj -> C:\CSCI 3090\etc\lab\Example6\x64\Debug\Example6.exe

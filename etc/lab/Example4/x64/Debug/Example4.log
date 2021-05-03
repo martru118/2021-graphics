@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\CSCI 3090\etc\lab\Example4\main.cpp(83,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example4\main.cpp(120,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example4\main.cpp(156,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Example4.vcxproj -> C:\CSCI 3090\etc\lab\Example4\x64\Debug\Example4.exe

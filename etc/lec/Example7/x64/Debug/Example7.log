@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\CSCI 3090\etc\lec\Example7\main.cpp(72,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CSCI 3090\etc\lec\Example7\main.cpp(110,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Example7.vcxproj -> C:\CSCI 3090\etc\lec\Example7\x64\Debug\Example7.exe

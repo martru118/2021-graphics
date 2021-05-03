@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\CSCI 3090\etc\lab\Example5\main.cpp(101,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(102,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(109,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(111,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(112,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(113,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example5\main.cpp(358,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\CSCI 3090\etc\lab\Example5\main.cpp(359,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Example5.vcxproj -> C:\CSCI 3090\etc\lab\Example5\x64\Debug\Example5.exe

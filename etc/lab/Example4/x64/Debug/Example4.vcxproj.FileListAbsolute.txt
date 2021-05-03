@@ -1,0 +1,2 @@
+C:\CSCI 3090\etc\lab\Example4\x64\Debug\Example4.exe
+C:\CSCI 3090\etc\lab\Example4\x64\Debug\Example4.pdb

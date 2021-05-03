@@ -1,0 +1,61 @@
+﻿  viewer.cpp
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(48,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(49,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(50,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(51,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(52,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(53,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(54,11): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,5): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,5): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(55,11): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(139,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(146,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(164,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(165,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(166,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(170,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(104,9): warning C4101: 'tBuffer': unreferenced local variable
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(326,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(407,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(409,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example10\viewer.cpp(354,6): warning C4101: 'user': unreferenced local variable
+  viewer.vcxproj -> C:\CSCI 3090\etc\lab\Example10\x64\Debug\viewer.exe

@@ -1,0 +1,45 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glewGetErrorString@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSetErrorCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSetWindowShouldClose referenced in function "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSetFramebufferSizeCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSetKeyCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwMakeContextCurrent referenced in function "void __cdecl framebufferSizeCallback(struct GLFWwindow *,int,int)" (?framebufferSizeCallback@@YAXPAUGLFWwindow@@HH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSwapBuffers referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glfwSwapInterval referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp____glewBindBuffer referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewBufferData referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewBufferSubData referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewGenBuffers referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewEnableVertexAttribArray referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewGetAttribLocation referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewGetUniformLocation referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewUniform3f referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewUniformMatrix3fv referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewUniformMatrix4fv referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewUseProgram referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewVertexAttribPointer referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewBindBufferBase referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewBindVertexArray referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp____glewGenVertexArrays referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewAttachShader referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewCompileShader referenced in function "int __cdecl buildShader(int,char *)" (?buildShader@@YAHHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewCreateProgram referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewCreateShader referenced in function "int __cdecl buildShader(int,char *)" (?buildShader@@YAHHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetActiveAttrib referenced in function "void __cdecl dumpProgram(int,char *)" (?dumpProgram@@YAXHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetActiveUniform referenced in function "void __cdecl dumpProgram(int,char *)" (?dumpProgram@@YAXHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetProgramInfoLog referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetProgramiv referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderInfoLog referenced in function "int __cdecl buildShader(int,char *)" (?buildShader@@YAHHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderiv referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewIsProgram referenced in function "void __cdecl dumpProgram(int,char *)" (?dumpProgram@@YAXHPAD@Z)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewLinkProgram referenced in function "int __cdecl buildProgram(int,...)" (?buildProgram@@YAHHZZ)
+Shaders.obj : error LNK2019: unresolved external symbol __imp____glewShaderSource referenced in function "int __cdecl buildShader(int,char *)" (?buildShader@@YAHHPAD@Z)
+C:\CSCI 3090\glew\lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\CSCI 3090\glfw\lib\glfw3dll.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\CSCI 3090\etc\lab\Example6a\Debug\Example6.exe : fatal error LNK1120: 42 unresolved externals

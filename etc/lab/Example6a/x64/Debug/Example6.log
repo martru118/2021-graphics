@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(46,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(107,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(144,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(151,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(187,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(188,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(308,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CSCI 3090\etc\lab\Example6a\main.cpp(318,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Example6.vcxproj -> C:\CSCI 3090\etc\lab\Example6a\x64\Debug\Example6.exe

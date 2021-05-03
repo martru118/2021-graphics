@@ -1,0 +1,26 @@
+﻿  main.cpp
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(27,17): warning C4273: '_errno': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stddef.h(31,27): message : see previous definition of '_errno'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(43,69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(39,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(37,6): warning C4101: 'e': unreferenced local variable
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(61,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(108,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(115,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(172,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(195,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(196,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(201,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(202,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(208,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(214,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(193,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(194,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(199,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(200,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(205,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(206,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(211,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\main.cpp(212,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  texture.vcxproj -> D:\coding\code\OpenGL\Labs\lab10\Example11\texture\x64\Debug\texture.exe

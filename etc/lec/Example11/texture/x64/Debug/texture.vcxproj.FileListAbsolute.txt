@@ -1,0 +1,2 @@
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\x64\Debug\texture.exe
+D:\coding\code\OpenGL\Labs\lab10\Example11\texture\x64\Debug\texture.pdb
